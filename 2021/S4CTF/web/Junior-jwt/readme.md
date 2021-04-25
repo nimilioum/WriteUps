@@ -6,7 +6,7 @@
 
 Just one of [them](http://junior-jwt.peykar.io/)!
 
-[Files]()
+[Files](https://github.com/nimilioum/WriteUps/blob/main/2021/S4CTF/web/Junior-jwt/junior-jwt_263b5c9dfde1cb164297e918fe179e2a606af1a7.txz)
 
 ---
 
