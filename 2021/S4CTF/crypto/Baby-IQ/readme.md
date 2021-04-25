@@ -2,7 +2,7 @@
 
 -----------------------------
 
-Use [this](https://s4ctf.peykar.io/tasks/Baby-IQ_58a2860994ee3c83a883945d71387cca08334a4d.txz) simple crypto algorithm to learn about padding and evaluate yourself on how well you understand algorithms.
+Use [this](https://github.com/nimilioum/WriteUps/blob/main/2021/S4CTF/crypto/Baby-IQ/Baby-IQ_58a2860994ee3c83a883945d71387cca08334a4d.txz) simple crypto algorithm to learn about padding and evaluate yourself on how well you understand algorithms.
 
 -----------------------------
 
